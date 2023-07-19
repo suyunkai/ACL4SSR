@@ -2,3 +2,4 @@ payload:
 - DOMAIN-SUFFIX,openai.com
 - DOMAIN-SUFFIX,ai.com
 - DOMAIN-SUFFIX,accounts.google.com
+- DOMAIN-SUFFIX,chatgptapi.suyunkai.top
