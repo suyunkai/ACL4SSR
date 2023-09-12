@@ -17,3 +17,4 @@ payload:
 - DOMAIN-SUFFIX,anthropic.com
 - DOMAIN-SUFFIX,claude.ai
 - DOMAIN-SUFFIX,bing.com
+- DOMAIN-SUFFIX,liblib.ai
